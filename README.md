@@ -1,6 +1,6 @@
 # Snowflake-Pipelines-and-Governance
 
-The files attached are examples of SnowSQL commands used to manage warehousing pipelines and transformations, data masking policies, and role-based access controls. These are scrubbed examples of work that I completed for Kubrick Group consulting, iterating on previous client projects to optimize performance and learn best practices with automated pipelines & enterprise data management.
+The files attached are examples of SnowSQL commands used to manage warehousing pipelines and transformations, data masking policies, and role-based access controls. These are scrubbed examples of work that I completed for Kubrick Group Consulting, iterating on previous client projects to optimize performance and learn best practices with automated pipelines & enterprise data management.
 
 NOTES:
 These files cannot be run without a Snowflake instance. SnowSQL is a speacialized library of SQL commands meant to work with the Snowflake server-client pair. A Snowflake client allows data engineers and platform architects to stage tables across different warehouses for use across various applications, systems, and software interfaces. 
